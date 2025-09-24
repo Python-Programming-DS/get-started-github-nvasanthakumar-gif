@@ -1,4 +1,4 @@
-# 🌟 Nitishwar Vasantha Kumar's Profile
+# 🌟 Nitishwar Vasantha Kumar Profile
 
 ## 👤 About Me
 Hi, I’m **Nitishwar Vasantha Kumar** (he/him).  
