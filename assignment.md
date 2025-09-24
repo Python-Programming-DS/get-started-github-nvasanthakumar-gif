@@ -2,16 +2,19 @@
 
 **Due: Friday, Sep 26, 2025 @ 11:59 PM**
 
-About the author--XXX XXX
+About the author -- Nitishwar Vasantha Kumar  
 
-1. My preferred name is XXX XXX and my pronouns are [she/her].
-2. I am a [master] majoring in XXX in the Department of [XXX].
-3. I have [which level] programming in general.
-4. I have [which level] python programming experience.
-5. I have [which level] experience with using version control software.
-6. I have [which level] experience with git.
-7. I have [which level] experience with probability and statistics.
-8. I have [which level] experience with linear algebra.
-9. I have [which level] experience with machine learning.
-10. My github username is [XXX].
-11. I want to learn the following in this class: [XXX].
+1. My preferred name is Nitishwar Vasantha Kumar and my pronouns are he/him.  
+2. I am a master’s student majoring in Applied Data Science in the Department of Computer Science.  
+3. I have intermediate programming experience in general.  
+4. I have intermediate Python programming experience.  
+5. I have beginner experience with using version control software.  
+6. I have beginner experience with git.  
+7. I have intermediate experience with probability and statistics.  
+8. I have intermediate experience with linear algebra.  
+9. I have Intermediate experience with machine learning.  
+10. My GitHub username is nvasanthakumar-gif.  
+11. I want to learn the following in this class:  
+    - How to use Git and GitHub effectively  
+    - How to collaborate on coding projects  
+    - How to improve my coding and data science workflow  
